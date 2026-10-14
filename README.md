@@ -2,6 +2,9 @@
 
 ![Bakery Dashboard](<bakery2 (1)_page-0001.jpg>)
 
+# Star schema (data modeling)
+![Bakery Dashboard](<Screenshot 2026-10-11 143224.png>)
+
 # 🥐 Bakery Sales Dashboard (Power BI)
 
 An interactive Power BI dashboard that analyzes two years of bakery sales (Jan 2023 to Dec 2024) across revenue, profit, waste, promotions, customer segments, and peak trading hours.
