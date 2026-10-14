@@ -196,4 +196,4 @@ Used on: **Total Profit by Category**, **Top 5 / Bottom 5 Products**, **Profit b
 **Saidulu**
 B.Tech CSE (AI & ML) | Aspiring Data Analyst
 📍 Hyderabad, India
-🔗 [LinkedIn](#) | [GitHub](#) | 📧 [Email](#)
+🔗 [https://www.linkedin.com/in/saidulu-pulipati?utm_source=share_via&utm_content=profile&utm_medium=member_android](#) | [https://github.com/saidulu-pulipati](#) | 📧 [saidulupulipati092@gmail.com](#)
