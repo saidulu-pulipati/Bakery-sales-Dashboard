@@ -1,6 +1,6 @@
 # Bakery-sales-Dashboard
 
-![bakery Dashboard]
+![Bakery Dashboard]
 (bakery2(1)_page-0001.jpg)
 
 # 🥐 Bakery Sales Dashboard (Power BI)
