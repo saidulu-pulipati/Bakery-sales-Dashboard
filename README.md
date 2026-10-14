@@ -4,12 +4,6 @@
 
 An interactive Power BI dashboard that analyzes two years of bakery sales (Jan 2023 to Dec 2024) across revenue, profit, waste, promotions, customer segments, and peak trading hours.
 
-
-
-![Bakery Sales Dashboard](https://api53.ilovepdf.com/v1/download/7zzt6zsfrvzctdmdd4gxbcjyvkqy0bw2ykg141ycjr084z7d80nxhbl3tb3gt7nxbb107cAmyp12lh4c5x4mqcAyz6whltnAvphpmnn2yppf5shb0r3Alzpjq70dd0dqj0fglv0xjqnbt55wkgAv0w7k614fm6l14rvx71wmj2g5djw16rcq)
-
----
-
 ## 🎯 Problem Statement
 
 Despite generating 3.44M in revenue, the bakery reported a loss of 230K and inventory waste of 1.39M. The goal was to identify unprofitable products, ineffective promotions, and opportunities to improve profitability.
